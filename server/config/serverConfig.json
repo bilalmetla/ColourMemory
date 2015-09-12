@@ -1,0 +1,7 @@
+{
+    "systemIp": "127.0.0.1",
+    "systemPort": "8080",
+    "databaseIp": "127.0.0.1",
+    "databasePort": "2701",
+    "databaseName": "test"
+}

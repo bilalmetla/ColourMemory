@@ -1,0 +1,24 @@
+{
+  "name": "ColourMemory",
+  "version": "0.0.1",
+  "description": "This is a test project for Accedo TV",
+  "author": "bilalmetla",
+  "contributors": [
+    {}
+  ],
+  "bin": {},
+  "scripts": {},
+  "main": "server.js",
+  "repository": {},
+  "bugs": {},
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "mongoose": "^4.0.6",
+    "node-static": "0.7.6",
+    "underscore": "*"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
